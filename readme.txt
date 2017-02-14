@@ -1,4 +1,3 @@
 coucou
-in master
-
+mixed line
 New line
